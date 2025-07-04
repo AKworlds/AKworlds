@@ -37,5 +37,5 @@ I build detection systems that go beyond signatures: systems that analyze, class
 
 ## 📜 Certifications
 
-- [AWS AI & ML Scholarship Program]()  
+- AWS AI & ML Scholarship Program 
 
