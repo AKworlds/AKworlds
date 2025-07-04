@@ -27,16 +27,16 @@ Currently building a robust ML-powered phishing detection system and automating 
 
 ## 🔬 Project
 
-### 🧠 [PhishNet Defender](https://github.com/amadu-kamara/phishnet-defender)
+### 🧠 [PhishNet Defender](https://github.com/AKworlds/phishnet-defender)
 > Machine learning-powered phishing detection system  
 - Analyzes emails and URLs in real time  
 - Uses NLP and custom feature extraction for classification  
 - Includes integration with Google Safe Browsing, model confidence scoring, and user feedback loop  
-- Future plans: automated retraining, multi-session undo, spam cleanup extension
+- Future plans: automated retraining
 
 ---
 
 ## 📜 Certifications
 
-- [AWS AI & ML Scholarship Program](#)  
-- [TryHackMe: Pre-Security & Offensive Pentesting Paths]
+- [AWS AI & ML Scholarship Program]()  
+
