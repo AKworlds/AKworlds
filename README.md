@@ -1,78 +1,42 @@
-# Hello, I'm Amadu
-<a href="www.linkedin.com/in/akmara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hey, I’m Amadu Kamara
 
+🎯 Aspiring Security Engineer | 🧪 Threat Detection Lab Builder | 🔍 Incident Response Automation Enthusiast  
+📍 B.S. Cybersecurity (WGU, graduating Dec 2025)  
+🚧 Applying ML/AI to build smarter threat detection systems
 
+---
 
-A recent graduate who is eager to apply hands-on experience in threat detection and incident response to a security operations role.
+## 🧠 About Me
 
-## Objective
+I’m focused on building intelligent security solutions that detect, classify, and respond to real-world threats.
 
+Currently building a robust ML-powered phishing detection system and automating SOC workflows using open-source tools. My work blends traditional detection engineering with modern machine learning techniques — all backed by hands-on experimentation in my custom home lab.
 
-Strong foundation in ethical hacking, network security, and threat detection, reinforced by hands-on projects including malware analysis labs and network monitoring implementations. Currently pursuing a bachelor's degree (graduating December 2025) while actively building practical experience in SIEM tools and log analysis. Passionate about security incident response and threat hunting, with a focus on defending against evolving cyber threats.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🛠️ Technical Focus
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- **Threat Detection & Engineering**: SIEM pipelines, Sigma rules, endpoint telemetry analysis  
+- **Incident Response Automation**: SOAR (Shuffle), TheHive/Cortex workflows, case triage  
+- **Network & Endpoint Monitoring**: Suricata, Zeek, Sysmon, Wazuh  
+- **Security Tool Integration**: ELK Stack, Graylog, MISP, Google Safe Browsing API  
+- **ML/AI for Security**: Feature extraction, model training, real-time classification  
+- **Scripting & Automation**: Python, Bash, REST APIs
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🔬 Project
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 🧠 [PhishNet Defender](https://github.com/amadu-kamara/phishnet-defender)
+> Machine learning-powered phishing detection system  
+- Analyzes emails and URLs in real time  
+- Uses NLP and custom feature extraction for classification  
+- Includes integration with Google Safe Browsing, model confidence scoring, and user feedback loop  
+- Future plans: automated retraining, multi-session undo, spam cleanup extension
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 📜 Certifications
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-
-
-[linkedin]: www.linkedin.com/in/akmara
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [AWS AI & ML Scholarship Program](#)  
+- [TryHackMe: Pre-Security & Offensive Pentesting Paths]
