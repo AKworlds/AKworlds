@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm Amadu — a cybersecurity student and builder with a focus on applying machine learning to real-world security problems.
+ A cybersecurity student and builder with a focus on applying machine learning to real-world security problems.
 
 I build detection systems that go beyond signatures: systems that analyze, classify, and respond to threats using custom logic and trained models. Right now, I'm developing PhishNet Defender, a machine learning-powered phishing detection platform that integrates NLP techniques, URL analysis, and threat intel APIs to classify suspicious emails in real time
 ---
