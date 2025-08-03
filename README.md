@@ -1,41 +1,54 @@
 # 👋 Hey, I’m Amadu Kamara
 
-🎯 Aspiring Security Engineer | 🧪 Threat Detection Lab Builder | 🔍 Incident Response Automation Enthusiast  
-📍 B.S. Cybersecurity (WGU, graduating Dec 2025)  
-🚧 Applying ML/AI to build smarter threat detection systems
+🎯 **Aspiring Security Engineer** | 🧪 Threat Detection Lab Builder | 🤖 AI/ML for Cybersecurity  
+📍 B.S. Cybersecurity @ WGU (Graduating Dec 2025)  
+🚀 Passionate about securing networks and applying machine learning to detect and respond to threats in real time
 
 ---
 
 ## 🧠 About Me
 
- A cybersecurity student and builder with a focus on applying machine learning to real-world security problems.
+I'm a cybersecurity student learning how to secure networks—and along the way, I discovered a deep interest in using AI and ML to improve threat detection and response. My projects focus on building smarter, automated security tools that go beyond signature-based defenses.
 
-I build detection systems that go beyond signatures: systems that analyze, classify, and respond to threats using custom logic and trained models. Right now, I'm developing PhishNet Defender, a machine learning-powered phishing detection platform that integrates NLP techniques, URL analysis, and threat intel APIs to classify suspicious emails in real time
+I enjoy building hands-on labs, automating incident workflows, and integrating multiple tools to create practical, scalable detection systems.
+
 ---
 
 ## 🛠️ Technical Focus
 
-- **Threat Detection & Engineering**: SIEM pipelines, Sigma rules, endpoint telemetry analysis  
-- **Incident Response Automation**: SOAR (Shuffle), TheHive/Cortex workflows, case triage  
-- **Network & Endpoint Monitoring**: Suricata, Zeek, Sysmon, Wazuh  
-- **Security Tool Integration**: ELK Stack, Graylog, MISP, Google Safe Browsing API  
-- **ML/AI for Security**: Feature extraction, model training, real-time classification  
-- **Scripting & Automation**: Python, Bash, REST APIs
+- **Threat Detection & Engineering**  
+  SIEM pipelines · Sigma rules · Sysmon · Suricata · Zeek
+
+- **Incident Response Automation**  
+  SOAR (Shuffle) · TheHive/Cortex workflows · Case triage logic
+
+- **Monitoring & Logging**  
+  ELK Stack · Graylog · Wazuh · MISP · Endpoint & network telemetry
+
+- **ML/AI for Security**  
+  Feature extraction · Model training · Real-time classification · NLP for phishing detection
+
+- **Tooling & Scripting**  
+  Python · Bash · REST APIs · Google Safe Browsing API
 
 ---
 
-## 🔬 Project
+## 🔬 Projects
 
-### 🧠 [PhishNet Defender](https://github.com/AKworlds/phishnet-defender)
-> Machine learning-powered phishing detection system  
-- Analyzes emails and URLs in real time  
-- Uses NLP and custom feature extraction for classification  
-- Includes integration with Google Safe Browsing, model confidence scoring, and user feedback loop  
-- Future plans: automated retraining
+### 🧠 **PhishNet Defender**  
+A machine learning-powered phishing detection system.
+
+- Classifies emails and URLs in real time using NLP and custom feature extraction  
+- Integrates with Google Safe Browsing and threat intel APIs  
+- Outputs confidence scores and logs for user feedback loop  
+- **Next:** Building out automated model retraining + web interface
 
 ---
 
 ## 📜 Certifications
 
-- AWS AI & ML Scholarship Program 
+- AWS AI & ML Scholarship Program
+- AWS Cloud Practitioner (In progress)
+- [Planned:] CompTIA Security+ and more
 
+---
